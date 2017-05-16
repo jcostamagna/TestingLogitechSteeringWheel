@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\Interop.DXTMSFTLib.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\Interop.DXTRANSLib.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\Interop.PenInputPanelLib.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.ResolveComReference.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
